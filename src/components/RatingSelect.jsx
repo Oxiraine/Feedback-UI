@@ -124,7 +124,7 @@ function RatingSelect({select}) {
               onChange={handleChange}
               checked={selected === 10}
             />
-            <label htmlFor='num6'>10</label>
+            <label htmlFor='num10'>10</label>
           </li>
     </ul>
   )
